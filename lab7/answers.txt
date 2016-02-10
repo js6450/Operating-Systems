@@ -1,0 +1,24 @@
+Name: Jiwon Shin
+net ID: js6450
+NYU ID(N#): N17948459
+Partner's Name (if any): Mark Joseph
+
+Collaborators (who you talked to about the lab, what you talked about):
+When to TA Tan for debugging help.
+
+Source material that you consulted:
+
+
+Other acknowledgments:
+Partner Name: Mark Joseph
+net ID: mmj301
+NYU ID: 14249248
+
+-------------------------------------------------------------------------------
+
+Anything else you'd like us to know:
+
+Question 1: took us approximately 15 hours to complete this lab
+Question 2: somewhat.
+
+Honors supplement exercise(s) (describe what you coded):
